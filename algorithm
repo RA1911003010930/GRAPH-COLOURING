@@ -1,0 +1,2 @@
+# GRAPH-COLOURING
+Graph coloring algorithms. Given an undirected graph, a graph coloring is an assignment of labels traditionally called "colors" to each vertex. A graph coloring must have a special property: given two adjacent vertices, i.e., such that there exists an edge between them, they must not share the same color.
